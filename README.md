@@ -1,1 +1,1 @@
-# B2B-Quickstart
+# Insight Software
